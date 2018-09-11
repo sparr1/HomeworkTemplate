@@ -50,7 +50,8 @@
 \RequirePackage{multicol}
 % Used for Tikz pictures, e.g. for finite state machines.
 \RequirePackage{tikz}
-
+% Used for psuedo-code
+\RequirePackage{algorithm2e}
 % ---------------------------------------------------------------------
 % Color Definitions
 % ---------------------------------------------------------------------
